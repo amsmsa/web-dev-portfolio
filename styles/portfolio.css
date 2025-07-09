@@ -100,16 +100,17 @@ nav li a {
         font-size: 18px;
     }
     .banner-profile-picture{
-        width: 580;
+        width: 580px;
     }
     /* main styles */
     main{
-        max-width: 1140;
+        max-width: 1140px;
         margin: 0 auto;
 
     }
     main section{
-        margin: 130px;
+        margin-top: 130px;
+        margin-bottom: 130px;
 
     }
     /* about styles */
@@ -124,7 +125,7 @@ nav li a {
        justify-content: space-around;
     }
     .item-description{
-        font-weight: 600;
+        font-weight: 600px;
     }
     .skills-container{
         display: flex;
